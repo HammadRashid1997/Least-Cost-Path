@@ -14,3 +14,4 @@ The minimum cost path is the one which uses the least nodes to calculate the pat
 2. **main.py:**
    main.py is a file which has all the functions which are needed to implement the different paths.
 
+
