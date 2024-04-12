@@ -7,6 +7,7 @@ The minimum cost path is the one which uses the least nodes to calculate the pat
    4. DFS
    5. BFS
 
+
 **Code Details:**
 
 1. **demo.py:**
